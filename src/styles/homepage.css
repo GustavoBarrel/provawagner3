@@ -1,0 +1,21 @@
+#root {
+    width: 100%;
+    /* position: fixed; */
+    /* top: 6px; */
+}
+
+#navbarhome {
+    position: fixed;
+    top: 6px;
+    width: 100%;
+    background-color: tarns;
+}
+
+/* #root>nav {
+    background-color: red;
+} */
+
+/* .Porducts-Home {
+    display: flex;
+    flex-direction: ;
+} */
